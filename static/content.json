@@ -1,0 +1,87 @@
+{
+    "meta": {
+        "title": "Portifolio",
+        "description": "Sou Desenvolvedor Front End atuando recentemente na area. Experiência moderada que reside na criação de aplicativos front end escaláveis, seguros e confiáveis ​​usando uma variedade de estruturas e tecnologias.",
+        "keywords": "thomaz bazani,thomaz,reactjs,porfolio,nodejs, vue,Git,Github,Vercel,API,CTFL,Gatling,Jmeter,Rest,Metodologias Ágeis -Scrum,software engineer"
+    },
+
+    "name": "Thomaz Bazani",
+    "role": "Desenvolvedor Front End",
+    "description": "Olá, é um prazer compartilhar um pouco sobre mim. Estudante de programação com ótimo desempenho acadêmico e grande disposição para aprendizado. Capaz de oferecer um serviço de qualidade por meio de conhecimentos práticos e boas habilidades interpessoais, evoluindo o desenvolvimento profissional.",
+    "index_image": "/img/img1.jpg",
+
+    "about_description": "Olá! Sou Thomaz Bazani, atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Tecnológica FIAP de São Paulo. Meu entusiasmo está na Programação, o que me leva a explorar continuamente novas tecnologias e aprimorar meu conjunto de habilidades. Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:",
+    "about_image": "/img/img2.jpg",
+    "education": [
+        {
+            "organization": "FIAP",
+            "subtitle": "Graduação, Análise e Desenvolvimento de Sistema",
+            "date": "2024 - Present"
+        }
+    ],
+    "experience": [
+        {
+            "organization": "Top Grass.",
+            "subtitle": "Autônomo. Analista de TI",
+            "date": "2018 - 2021"
+        },
+        {
+            "organization": "Moreira Informática.",
+            "subtitle": "Técnico de suporte de informática",
+            "date": "2014 - 2016"
+        }
+    ],
+    "social_links": {
+        "linkedin": "https://www.linkedin.com/in/thomaz-bazani-13a738194/",
+        "github": "https://github.com/ThBanza",
+        "instagram": "https://www.instagram.com/thomazbazani/",
+        "twitter": "https://x.com/Thbanza97",
+        "facebook": "https://www.facebook.com/thomaz.bazani"
+    },
+    "email": "thomazbanza@gmail.com",
+
+    "skills": {
+        "proglang": ["C", "C++", "C#", "JavaScript", "TypeScript"],
+        "libfw": ["React","NodeJS","Vue", "Cypress"],
+        "toolplat": ["Git", "Github", "Vercel", "API", "CTFL", "Gatling", "Jmeter", "Rest", "Metodologias Ágeis -Scrum"]
+    },
+
+    "projects": [
+        {
+            "title": "sudoku-solver",
+            "description": "Sudoku Solver is a web application that can generate or solve sudoku problems using simulated annealing, an optimization algorithm.",
+            "skills": ["React", "Tailwind", "TypeScript"],
+            "link": "https://sudoku-solver-sa.netlify.app/",
+            "github": "https://github.com/dsbalico/sudoku-solver-using-simulated-annealing"
+        },
+        
+        {
+            "title": "simple-chat-app",
+            "description": "A simple online chatting web application where you can create chat rooms and have a fun conversation with a group of people.",
+            "skills": ["React", "Tailwind", "Firebase"],
+            "link": "https://thechatroom.netlify.app/",
+            "github": "https://github.com/dsbalico/simple-chat-app"
+        },
+        {
+            "title": "pseudocode-to-c",
+            "description": "Pseudocode to C is a web app that translates pseudocode into C code, aiding in the transition from high-level logic to a lower-level language.",
+            "skills": ["React", "Flask", "SpaCy", "Tailwind"],
+            "link": "https://pseudocode-to-c.netlify.app/",
+            "github": "https://github.com/dsbalico/pseudocode-to-c"
+        },
+        {
+            "title": "probability-pick",
+            "description": "Probability Pick is a PCSO Lotto Number Generator that calculates the likelihood of selecting winning numbers based on historical draw data.",
+            "skills": ["React", "Flask", "Pandas"],
+            "link": "https://probability-pick.netlify.app/",
+            "github": "https://github.com/dsbalico/probability-pick"
+        },
+        {
+            "title": "draw-and-classify",
+            "description": "Draw & Classify is a web application designed to test my machine learning model, which classifies drawn letters, digits, or shapes.",
+            "skills": ["React", "Tailwind", "Tensorflow"],
+            "link": "https://letterdigitshape-classification.netlify.app/",
+            "github": "https://github.com/dsbalico/letter-digit-shape-classification"
+        }
+    ]
+}
